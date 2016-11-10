@@ -1,1 +1,1 @@
-# javascript
+# Jinn JavaScript Style Guide
