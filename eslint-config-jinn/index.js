@@ -42,7 +42,7 @@ module.exports = {
     }],
     'indent': [2, 2, {'SwitchCase': 1}],
     'eqeqeq': [2, 'smart'],
-    'new-cap': 2,
+    'new-cap': 1,
     'no-unused-vars': [1],
   }
 };
